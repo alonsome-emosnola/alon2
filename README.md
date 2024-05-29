@@ -11,7 +11,7 @@ https://www.java.com/en/download/
 
 1.https://github.com/galonet/alon2.git
 
-2.cd alon
+2.cd alon2
 
 Run in terminal: sh ./run.sh
 
