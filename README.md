@@ -5,9 +5,9 @@
 ----
 ### Using ALON Coin ###
 
-Download and install java jdk 11 (min):
+Download and install java
 
-https://www.oracle.com/java/technologies/javase/jdk11-archive-downloads.html
+https://www.java.com/en/download/
 
 1.git clone https://github.com/galonet/alon.git
 
@@ -17,7 +17,7 @@ Run in terminal: sh ./run.sh
 
 or windows: run.bat
 
-http://localhost:8003/
+http://localhost:8005/
 
 
 Below is the documentation for how to use this API:
