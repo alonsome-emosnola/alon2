@@ -9,7 +9,7 @@ Download and install java
 
 https://www.java.com/en/download/
 
-1.git clone https://github.com/galonet/alon.git
+1.https://github.com/galonet/alon2.git
 
 2.cd alon
 
